@@ -11,7 +11,7 @@
   },
   {
     "repository": "SirRGB/proprietary_vendor_oneplus",
-    "target_path": "vendor/oneplus"
+    "target_path": "vendor/oneplus",
     "branch": "lineage-18.1"
   }
 ]
