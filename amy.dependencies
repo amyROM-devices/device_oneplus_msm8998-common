@@ -6,12 +6,12 @@
   },
   {
     "repository": "crdroidandroid/android_kernel_oneplus_msm8998",
-    "target_path": "kernel/oneplus/msm8998" path="kernel/oneplus/msm8998",
+    "target_path": "kernel/oneplus/msm8998",
     "branch": "11.0"
   },
   {
     "repository": "SirRGB/proprietary_vendor_oneplus",
-    "target_path": "vendor/oneplus" path="kernel/oneplus/msm8998",
+    "target_path": "vendor/oneplus"
     "branch": "lineage-18.1"
   }
 ]
