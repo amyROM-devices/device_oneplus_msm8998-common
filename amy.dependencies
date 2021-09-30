@@ -11,7 +11,7 @@
   },
   {
     "repository": "SirRGB/proprietary_vendor_oneplus",
-    "target_path": "vendor/oneplus"" path="kernel/oneplus/msm8998",
+    "target_path": "vendor/oneplus" path="kernel/oneplus/msm8998",
     "branch": "lineage-18.1"
   }
 ]
